@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>src/login/dao/DaoIplements.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>92</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/login/model/Validations.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/joao.queiroz/Documents/NetBeansProjects/Login/src/login/model/Validations.java</file>
+            <file>file:/C:/Users/joao.queiroz/Documents/NetBeansProjects/Login/src/Front_end/Janela_Login.java</file>
+            <file>file:/C:/Users/joao.queiroz/Documents/NetBeansProjects/Login/src/login/model/TableModelContato.java</file>
+            <file>file:/C:/Users/joao.queiroz/Documents/NetBeansProjects/Login/src/login/dao/DaoUsuario.java</file>
+            <file>file:/C:/Users/joao.queiroz/Documents/NetBeansProjects/Login/src/Front_end/Janela_Cadastro.java</file>
+            <file>file:/C:/Users/joao.queiroz/Documents/NetBeansProjects/Login/src/login/model/Usuario.java</file>
+            <file>file:/C:/Users/joao.queiroz/Documents/NetBeansProjects/Login/src/Front_end/New_Usuario.java</file>
+            <file>file:/C:/Users/joao.queiroz/Documents/NetBeansProjects/Login/src/Front_end/Edit_User.java</file>
+            <file>file:/C:/Users/joao.queiroz/Documents/NetBeansProjects/Login/src/login/dao/DaoIplements.java</file>
+            <file>file:/C:/Users/joao.queiroz/Documents/NetBeansProjects/Login/src/Front_end/Visualizar.java</file>
+            <file>file:/C:/Users/joao.queiroz/Documents/NetBeansProjects/Login/src/login/model/Contato.java</file>
+            <file>file:/C:/Users/joao.queiroz/Documents/NetBeansProjects/Login/src/Front_end/Principal.java</file>
+        </group>
+    </open-files>
+</project-private>
